@@ -1,4 +1,5 @@
-# Miragic Text To Image Generator
+# `Miragic` Text To Image Generator
+## `Miraigc` built free image generator tool and it's on live [here](https://miragic.ai/products/image-generator)
 *Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work:*
 
 [**High-Resolution Image Synthesis with Latent Diffusion Models**](https://ommer-lab.com/research/latent-diffusion-models/)<br/>
