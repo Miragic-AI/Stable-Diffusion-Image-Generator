@@ -1,6 +1,6 @@
 # `Miragic` Text To Image Generator
 <p align="center">
-  <a href="https://play.google.com/store/apps/dev?id=7086930298279250852" target="_blank">
+  <a href="https://miragic.ai/products/image-generator" target="_blank">
     <img alt="" src="https://github.com/user-attachments/assets/0ac37325-df38-46ba-978d-930b5166d9f8" width=500/>
   </a>  
 </p>
