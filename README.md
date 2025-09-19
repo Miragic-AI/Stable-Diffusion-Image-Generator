@@ -1,4 +1,4 @@
-# `Miragic` Text To Image Generator
+# `Miragic` Text to Image Generator
 <p align="center">
   <a href="https://miragic.ai/products/image-generator" target="_blank">
     <img alt="" src="https://github.com/user-attachments/assets/0ac37325-df38-46ba-978d-930b5166d9f8" width=500/>
@@ -11,7 +11,7 @@
 
 ## ✨ How to Try
 
-You can watch YouTube video [here](https://www.youtube.com/watch?v=eaWjsiP0-G0) to learn how to try our product yourself.</br></br>
+You can watch `YouTube` video [here](https://www.youtube.com/watch?v=eaWjsiP0-G0) to learn how to try our product yourself.</br></br>
 [![Video Tutorial](https://img.youtube.com/vi/eaWjsiP0-G0/0.jpg)](https://www.youtube.com/watch?v=eaWjsiP0-G0)
 ##
 *Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work:*
