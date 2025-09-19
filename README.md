@@ -1,4 +1,10 @@
 # `Miragic` Text To Image Generator
+<p align="center">
+  <a href="https://play.google.com/store/apps/dev?id=7086930298279250852" target="_blank">
+    <img alt="" src="https://github.com/user-attachments/assets/0ac37325-df38-46ba-978d-930b5166d9f8" width=500/>
+  </a>  
+</p>
+
 ## `Miraigc` released free image generator and it's on live [here](https://miragic.ai/products/image-generator) and [HuggingFace](https://huggingface.co/spaces/Miragic-AI/Miragic-AI-Image-Generator).
 *Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work:*
 
