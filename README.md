@@ -8,6 +8,11 @@
 ## ✨ Miragic Playgrounds
 #### 🙋‍♀️ Website - [Here](https://miragic.ai/products/image-generator)
 #### 🤗 Hugging Face - [Here](https://huggingface.co/spaces/Miragic-AI/Miragic-AI-Image-Generator)
+
+## ✨ How to Try
+
+You can visit our YouTube video [here](https://www.youtube.com/watch?v=eaWjsiP0-G0) to see how well our demo app works.</br></br>
+[![Video Tutorial](https://img.youtube.com/vi/eaWjsiP0-G0/0.jpg)](https://www.youtube.com/watch?v=eaWjsiP0-G0)
 ##
 *Stable Diffusion was made possible thanks to a collaboration with [Stability AI](https://stability.ai/) and [Runway](https://runwayml.com/) and builds upon our previous work:*
 
